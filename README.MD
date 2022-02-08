@@ -1,3 +1,4 @@
+# Cabeceras
 # Cabecera H1
 ## Cabecera H2
 ### Cabecera H3
@@ -5,15 +6,25 @@
 ##### Cabecera H5
 ###### Cabecera H6
 
+# Underlines
 Underline 1
 -----------
 
 Underline 2
 ===========
 
-formato *itálica* de la primera forma.
-formato _itálica_ de la segunda forma.
-formato **bold o strong** de la primera forma.
-formato __bold o strong__ de la segunda forma.
-formato ~~tachado~~, formato normal.
-aquí podemos usar *formato itálico*, pero también **bold** y ~~tachado~~.
+# Formatos de énfasis
+- formato *itálica* de la primera forma.
+- formato _itálica_ de la segunda forma.
+- formato **bold o strong** de la primera forma.
+- formato __bold o strong__ de la segunda forma.
+- formato ~~tachado~~, formato normal.
+- aquí podemos usar *formato itálico*, pero también **bold** y ~~tachado~~.
+
+# Listas
+1. Esto es un ítem de lista ordenada.
+2. Esto es un ítem de lista ordenada.
+3. Esto es un ítem de lista ordenada.
+- Esto es un ítem de lista desordenada.
+- Esto es un ítem de lista desordenada.
+- Esto es un ítem de lista desordenada.
